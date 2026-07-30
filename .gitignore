@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# stan aplikacji desktopowej Cate (nie nasze, auto-tworzone)
+.cate/
+
+# lokalne sekrety
+.env
+.env.local
+
+# zależności / build (gdy projekt dostanie bundler)
+node_modules/
+dist/

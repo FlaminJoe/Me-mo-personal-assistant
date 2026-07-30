@@ -66,3 +66,7 @@ Narzędzie osobiste FlaminJoe (Toruń/Lubicz), potencjalny SaaS w v3 (Stripe, 99
 2. Sprawdź pamięć `project_cue.md` — ma aktualny stan i otwarte wątki
 3. Lokalne uruchomienie: `python3 -m http.server 8765` → `http://localhost:8765`
 4. Logowanie: magic link na własny email LUB Dashboard → Authentication → Users → Send magic link
+
+---
+
+> 🗺 **Mapa workspace:** nota-hub tego projektu: [cue](cue.md) · centrum grafu: [HOME](../HOME.md)

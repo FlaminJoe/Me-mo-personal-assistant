@@ -1,5 +1,10 @@
 # AGENTS.md
 
+> **Tablica procesów:** przed pracą sprawdź wpis projektu w
+> `/Volumes/ADATA SE880/Claude/TABLICA.html`. Każdy nowy aktywny proces oraz
+> każdą zmianę statusu, blokera, ownera lub następnego kroku uzupełnij tam w tej
+> samej sesji. To nadrzędne źródło prawdy dla otwartych tematów workspace.
+
 Dokumentacja dla agentów w tym repo żyje w **`CLAUDE.md`** (orientacja) + `docs/` (referencje na żądanie).
 
 Czytaj `CLAUDE.md` — to źródło prawdy. Nie duplikuj jego treści tutaj.
