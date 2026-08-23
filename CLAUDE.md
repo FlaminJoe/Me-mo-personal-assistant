@@ -70,3 +70,7 @@ Narzędzie osobiste FlaminJoe (Toruń/Lubicz), potencjalny SaaS w v3 (Stripe, 99
 ---
 
 > 🗺 **Mapa workspace:** nota-hub tego projektu: [cue](cue.md) · centrum grafu: [HOME](../HOME.md)
+
+## Zasada pracy
+
+**Bez skrótów — kod od razu w docelowej strukturze** (pamięć `feedback_cue_long_term`). Domena heycue.pl wstrzymana; zostaje adres vercel.app.
